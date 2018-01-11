@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:100,100i,200,200i,300,300i,400,400i');
-
+@import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:300,400,500');
 body{
 	font-family: 'Barlow Semi Condensed', sans-serif !important;
 	padding : 0em 1.4em;
@@ -56,7 +55,7 @@ background-color: white;
 
 .fontBr
 {
-	font-weight:400;
+	font-weight:500;
 }
 
 .h3
