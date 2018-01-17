@@ -1,8 +1,8 @@
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600');
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:300,400,500');
 
 body{
-	font-family: 'Open Sans', sans-serif; !important;
+	font-family: 'Work Sans', sans-serif;
 	padding : 0em 1.4em;
 	}
 .flex{
@@ -57,7 +57,7 @@ background-color: white;
 
 .fontBr
 {
-	font-weight:600;
+	font-weight:500;
 }
 
 .h3
